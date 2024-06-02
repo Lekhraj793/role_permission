@@ -73,9 +73,9 @@ php artisan serve
 
 - **GET /api/user: Retrieve a list of all available users.**
 
-- **POST /api/show/id: Retrieve a single user detail using primary key.**
+- **GET /api/show/id: Retrieve a single user detail using primary key.**
 
-- **GET /api/delete/id: Delete user by primary key.**
+- **POST /api/delete/id: Delete user by primary key.**
 
 ## License
 
